@@ -1,0 +1,10 @@
+[package]
+name = "nonode"
+version = "0.1.0"
+edition = "2021"
+authors = ["David McDougall"]
+license = "MIT OR Apache-2.0"
+
+description = "TODO: A short description of my package"
+keywords = ["graph", "graphs"]
+categories = ["algorithms"]
